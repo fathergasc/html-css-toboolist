@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   background-color: #B1BBF8
+}
+
+header {
+    height: 80px;
+    background-color: #fff;
+}
+
+main {
+    #B1BBF8
+}
+
+.logo {
+    margin-left: 20px;
+    vertical-align: middle;
+    height: 60px;
+    line-height: 80px;
+}
+
+#logo-text {
+    line-height: 80px;
+    font-size: 45px;
+    font-weight: bold;
+    vertical-align: middle;
+}
