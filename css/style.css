@@ -16,7 +16,6 @@ header {
 main {
     margin: 50px auto;
     width: 70%;
-    #B1BBF8
 }
 
 .logo {
@@ -28,7 +27,7 @@ main {
 
 #logo-text {
     line-height: 80px;
-    font-size: 45px;
+    font-size: 40px;
     font-weight: bold;
     vertical-align: middle;
 }
@@ -66,6 +65,26 @@ main {
     background-color: #fff;
 }
 
+.purple {
+    background-color: #9C72E4;
+}
+
+.green {
+    background-color: #64C0A9;
+}
+
+.orange {
+    background-color: #F29E33;
+}
+
+.fuchsia {
+    background-color: #D863A1;
+}
+
+.light-green {
+    background-color: #B0C926;
+}
+
 #white-button {
     color: lightgray;
     border: 1px solid lightgray;
@@ -80,7 +99,7 @@ main {
 .list-container {
     padding-top: 30px;
     background-color: #fff;
-    height: 700px;
+    height: 550px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
@@ -94,6 +113,7 @@ ul {
 li {
     margin: 15px 0;
     font-size: 18px;
+    
 }
 
 .list-title {
@@ -143,4 +163,11 @@ li {
     text-align: center;
     vertical-align: middle;
     line-height: 20px;
+}
+
+.tag {
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 10px;
 }
